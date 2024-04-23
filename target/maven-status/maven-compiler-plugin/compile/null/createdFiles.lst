@@ -1,0 +1,4 @@
+br\com\service\PersonService.class
+br\com\domain\Person.class
+br\com\resource\PersonResource.class
+br\com\repository\PersonRepository.class
